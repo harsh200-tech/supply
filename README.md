@@ -1,1 +1,1 @@
-# supply
+This project is a Supply Management REST API developed in Java, designed to handle core supply chain operations such as supplier management, inventory tracking, purchase orders, and stock updates. The API follows RESTful principles and provides secure, scalable endpoints for integration with frontend applications or other services.
